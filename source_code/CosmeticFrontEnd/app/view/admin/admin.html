@@ -1,0 +1,757 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Admin Page</title>
+    <link
+      rel="stylesheet"
+      href="../../../node_modules/bootstrap/dist/css/bootstrap.min.css"
+    />
+    <link rel="stylesheet" href="../../../assets/css/admin/index.css" />
+    <link
+      rel="stylesheet"
+      href="../../../assets/css/font-awesome.min.css"
+      type="text/css"
+    />
+    <link
+      rel="stylesheet"
+      href="../../../assets/css/themify-icons.css"
+      type="text/css"
+    />
+    <link
+      rel="stylesheet"
+      href="../../../assets/css/elegant-icons.css"
+      type="text/css"
+    />
+    <link
+      rel="stylesheet"
+      href="../../../assets/css/owl.carousel.min.css"
+      type="text/css"
+    />
+    <link
+      rel="stylesheet"
+      href="../../../assets/css/nice-select.css"
+      type="text/css"
+    />
+    <link
+      rel="stylesheet"
+      href="../../../assets/css/jquery-ui.min.css"
+      type="text/css"
+    />
+    <link
+      rel="stylesheet"
+      href="../../../assets/css/slicknav.min.css"
+      type="text/css"
+    />
+    <script>
+      var checkRole = function () {
+        if(!localStorage.getItem("loginList")){
+          alert('You have to Login first!');
+          window.location = "http://127.0.0.1:5001/app/view/login.html";
+        }
+        if(localStorage.getItem("loginList")){
+          var loginList = localStorage.getItem("loginList");
+          var userList = JSON.parse(loginList);
+          if(userList[0].role_id != 1){
+            alert('You have no Role to access this page!');
+            window.location = "http://127.0.0.1:5001/app/view/index.html";
+          }
+        }
+      }
+      
+      checkRole();
+    </script>
+  </head>
+  <body>
+    <div
+      class="app-container app-theme-white body-tabs-shadow fixed-sidebar fixed-header"
+    >
+      <div class="app-header header-shadow">
+        <div class="app-header__logo">
+          <div class="logo-src"></div>
+          <div class="header__pane ml-auto">
+            <div>
+              <button
+                id="humburger-event"
+                type="button"
+                class="hamburger close-sidebar-btn hamburger--elastic"
+                data-class="closed-sidebar"
+              >
+                <span class="hamburger-box">
+                  <span class="hamburger-inner"></span>
+                </span>
+              </button>
+            </div>
+          </div>
+        </div>
+        <div class="app-header__mobile-menu">
+          <div>
+            <button
+              type="button"
+              class="hamburger hamburger--elastic mobile-toggle-nav"
+            >
+              <span class="hamburger-box">
+                <span class="hamburger-inner"></span>
+              </span>
+            </button>
+          </div>
+        </div>
+        <div class="app-header__menu">
+          <span>
+            <button
+              type="button"
+              class="btn-icon btn-icon-only btn btn-primary btn-sm mobile-toggle-header-nav"
+            >
+              <span class="btn-icon-wrapper">
+                <i class="fa fa-ellipsis-v fa-w-6"></i>
+              </span>
+            </button>
+          </span>
+        </div>
+        <div class="app-header__content">
+          <div class="app-header-left">
+            <div class="search-wrapper">
+              <div class="input-holder">
+                <input
+                  type="text"
+                  class="search-input"
+                  placeholder="Type to search"
+                />
+                <button class="search-icon"><span></span></button>
+              </div>
+              <button class="close"></button>
+            </div>
+            <ul class="header-menu nav">
+              <li class="nav-item">
+                <a href="javascript:void(0);" class="nav-link">
+                  <i class="nav-link-icon fa fa-database"> </i>
+                  Statistics
+                </a>
+              </li>
+              <li class="btn-group nav-item">
+                <a href="javascript:void(0);" class="nav-link">
+                  <i class="nav-link-icon fa fa-edit"></i>
+                  Projects
+                </a>
+              </li>
+              <li class="dropdown nav-item">
+                <a href="javascript:void(0);" class="nav-link">
+                  <i class="nav-link-icon fa fa-cog"></i>
+                  Settings
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div class="app-header-right">
+            <div class="header-btn-lg pr-0">
+              <div class="widget-content p-0">
+                <div class="widget-content-wrapper">
+                  <div class="widget-content-left">
+                    <div class="btn-group">
+                      <a
+                        data-toggle="dropdown"
+                        aria-haspopup="true"
+                        aria-expanded="false"
+                        class="p-0 btn"
+                      >
+                        <img
+                          width="42"
+                          class="rounded-circle"
+                          src="../../../assets/img/smile.png"
+                          alt=""
+                        />
+                        <i class="fa fa-angle-down ml-2 opacity-8"></i>
+                      </a>
+                      <div
+                        tabindex="-1"
+                        role="menu"
+                        aria-hidden="true"
+                        class="dropdown-menu dropdown-menu-right"
+                      >
+                        <button
+                          type="button"
+                          tabindex="0"
+                          class="dropdown-item"
+                        >
+                          User Account
+                        </button>
+                        <button
+                          type="button"
+                          tabindex="0"
+                          class="dropdown-item"
+                        >
+                          Settings
+                        </button>
+                        <h6 tabindex="-1" class="dropdown-header">Header</h6>
+                        <button
+                          type="button"
+                          tabindex="0"
+                          class="dropdown-item"
+                        >
+                          Actions
+                        </button>
+                        <div tabindex="-1" class="dropdown-divider"></div>
+                        <button
+                          onclick="logOut()"
+                          id="logout"
+                          type="button"
+                          tabindex="0"
+                          class="dropdown-item"
+                        >
+                          Log Out
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="widget-content-left  ml-3 header-user-info">
+                    <div id="adminAccount" class="widget-heading">
+                      Alina Mclourd
+                    </div>
+                    <div id="adminName" class="widget-subheading">
+                      VP People Manager
+                    </div>
+                  </div>
+                  <div class="widget-content-right header-user-info ml-3">
+                    <button
+                      type="button"
+                      class="btn-shadow p-1 btn btn-primary btn-sm show-toastr-example"
+                    >
+                      <i class="fa text-white fa-calendar pr-1 pl-1"></i>
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="app-main">
+        <div class="app-sidebar sidebar-shadow">
+          <div class="app-header__logo">
+            <div class="logo-src"></div>
+            <div class="header__pane ml-auto">
+              <div>
+                <button
+                  type="button"
+                  class="hamburger close-sidebar-btn hamburger--elastic"
+                  data-class="closed-sidebar"
+                >
+                  <span class="hamburger-box">
+                    <span class="hamburger-inner"></span>
+                  </span>
+                </button>
+              </div>
+            </div>
+          </div>
+          <div class="app-header__mobile-menu">
+            <div>
+              <button
+                type="button"
+                class="hamburger hamburger--elastic mobile-toggle-nav"
+              >
+                <span class="hamburger-box">
+                  <span class="hamburger-inner"></span>
+                </span>
+              </button>
+            </div>
+          </div>
+          <div class="app-header__menu">
+            <span>
+              <button
+                type="button"
+                class="btn-icon btn-icon-only btn btn-primary btn-sm mobile-toggle-header-nav"
+              >
+                <span class="btn-icon-wrapper">
+                  <i class="fa fa-ellipsis-v fa-w-6"></i>
+                </span>
+              </button>
+            </span>
+          </div>
+          <div class="scrollbar-sidebar">
+            <div class="app-sidebar__inner">
+              <ul class="nav flex-column vertical-nav-menu" role="tablist">
+                <li class="app-sidebar__heading">Management</li>
+                <li class="nav-item">
+                  <a
+                    id="home-tab"
+                    data-toggle="tab"
+                    href="#home"
+                    role="tab"
+                    aria-controls="home"
+                    aria-selected="true"
+                  >
+                    <i class="metismenu-icon fa fa-user"></i>
+                    Users
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <a
+                    id="profile-tab"
+                    data-toggle="tab"
+                    href="#profile"
+                    role="tab"
+                    aria-controls="profile"
+                    aria-selected="false"
+                  >
+                    <i class="metismenu-icon fa fa-product-hunt"></i>
+                    Products
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="app-main__outer">
+          <div class="app-main__inner">
+            <div class="app-page-title">
+              <div class="page-title-wrapper">
+                <div class="page-title-heading">
+                  <div class="page-title-icon">
+                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                  </div>
+                  <div class="">
+                    <span class="title-action">Regular Tables</span>
+                    <div class="page-title-subheading">
+                      Tables are the backbone of almost all web applications.
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="container">
+              <div class="row">
+                <div class="main-card mb-3 card col-12">
+                  <div class="tab-content" id="myTabContent" style="height: 100vh; overflow-y: scroll; overflow-x: hidden;">
+                    <div
+                      class="tab-pane fade show active"
+                      id="home"
+                      role="tabpanel"
+                      aria-labelledby="home-tab"
+                    >
+                      <div class="row">
+                        <div class="col-md-8">
+                          <button
+                            class="btn btn-sm btn-success mt-4 ml-4"
+                            id="btnAddnewUser"
+                            data-toggle="modal"
+                            data-target="#myModal"
+                          >
+                            <i class="fa fa-plus mr-1"></i>
+                            Add User
+                          </button>
+                        </div>
+                        <div class="col-md-4">
+                          <div class="search-wrapper active mt-3">
+                            <div class="input-holder">
+                              <input
+                                onkeyup="searchByName()"
+                                id="searchUserName"
+                                type="text"
+                                class="search-input"
+                                placeholder="Type to search username"
+                              />
+                              <button onclick="searchByName()" class="search-icon"><span></span></button>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="clear-fix"></div>
+                      <div class="tblUsers mt-2" id="tblUsers">
+                        <table class="table" id="table_user">
+                          <thead>
+                            <th>#</th>
+                            <th>Username</th>
+                            <th>Name</th>
+                            <th>Phone</th>
+                            <th>Email</th>
+                            <th>Adress</th>
+                            <th>City</th>
+                            <th>Role</th>
+                            <th>Action</th>
+                          </thead>
+                          <tbody id="tbodyUsers"></tbody>
+                        </table>
+                      </div>
+                    </div>
+                    <div
+                      class="tab-pane fade"
+                      id="profile"
+                      role="tabpanel"
+                      aria-labelledby="profile-tab"
+                    >
+                    <div class="row">
+                      <div class="col-md-8">
+                        <button
+                          class="btn btn-sm btn-success mt-4 ml-4"
+                          id="btnAddNewProduct"
+                          data-toggle="modal"
+                          data-target="#myModalProduct"
+                        >
+                          <i class="fa fa-plus mr-1"></i>
+                          Add Product
+                        </button>
+                      </div>
+                      <div class="col-md-4">
+                        <div class="search-wrapper active mt-3">
+                          <div class="input-holder">
+                            <input
+                              id="searchProductName"
+                              onkeyup="searchProductByName()"
+                              type="text"
+                              class="search-input"
+                              placeholder="Type to search by Product name"
+                            />
+                            <button class="search-icon"><span></span></button>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="clear-fix"></div>
+                    <div class="tblProducts mt-2" id="tblProducts">
+                      <table class="table" id="table_user">
+                        <thead>
+                          <th>ID</th>
+                          <th>ProName</th>
+                          <th>Type</th>
+                          <th>Producer</th>
+                          <th>Quantity</th>
+                          <th>Price</th>
+                          <th>Discription</th>
+                          <th>Status</th>
+                          <th>Action</th>
+                        </thead>
+                        <tbody id="tbodyProducts"></tbody>
+                      </table>
+                    </div>
+                    </div>
+                    <div
+                      class="tab-pane fade"
+                      id="contact"
+                      role="tabpanel"
+                      aria-labelledby="contact-tab"
+                    >
+                      Hihi
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="app-wrapper-footer">
+            <div class="app-footer">
+              <div class="app-footer__inner">
+                <div class="app-footer-left">
+                  <ul class="nav">
+                    <li class="nav-item">
+                      <a href="../index.html" class="nav-link">
+                        Home Page
+                      </a>
+                    </li>
+                    <li class="nav-item">
+                      <a href="../shop.html" class="nav-link">
+                        Shop
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+                <div class="app-footer-right">
+                  <ul class="nav">
+                    <li class="nav-item">
+                      <a href="../shopping-cart.html" class="nav-link">
+                        Shopping Cart
+                      </a>
+                    </li>
+                    <li class="nav-item">
+                      <a href="../check-out.html" class="nav-link">
+                        <div class="badge badge-success mr-1 ml-0">
+                          <small>NEW</small>
+                        </div>
+                        Check Out
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="modal fade" id="myModal">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <!-- Modal Header -->
+          <div class="modal-header">
+            <h4 class="modal-title">Modal Heading</h4>
+            <button type="button" class="close" data-dismiss="modal">
+              &times;
+            </button>
+          </div>
+          <!-- Modal body -->
+          <div class="modal-body">
+            <form id="formAdd" class="add-validation" novalidate>
+              <div class="form-row">
+                <div class="form-group col-md-6">
+                  <label for="inputUsername">Username *</label>
+                  <input
+                    type="text"
+                    class="form-control"
+                    id="inputUsername"
+                    required
+                  />
+                  <div class="invalid-feedback">
+                    Please choose a username.
+                  </div>
+                </div>
+                <div class="form-group col-md-6">
+                  <label for="inputPassword">Password *</label>
+                  <input
+                    type="password"
+                    class="form-control"
+                    id="inputPassword"
+                    required
+                  />
+                  <div class="invalid-feedback">
+                    Please choose a password.
+                  </div>
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="inputAddress">Address</label>
+                <input
+                  type="text"
+                  class="form-control"
+                  id="inputAddress"
+                  placeholder="1234 Main St"                  
+                  required
+                />
+                <div class="invalid-feedback">
+                  Please provide a correct address.
+                </div>
+              </div>
+              <div class="form-row">
+                <div class="form-group col-md-8">                                
+                  <label for="inputEmail">Email address *</label>
+                  <input type="text"  class="form-control" id="inputEmail" placeholder="smile.official@gmail.com" required>
+                  <div class="invalid-feedback">
+                      Please choose a email.
+                  </div>                                
+                </div>
+                <div class="form-group col-md-4">
+                  <label for="inputRole">Role</label>
+                  <select id="inputRole" class="form-control" required>
+                    <option value="1">Admin</option>
+                    <option value="2">User</option>
+                  </select>
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="inputFullName">Full Name</label>
+                <input
+                  type="text"
+                  class="form-control"
+                  id="inputFullName"
+                  placeholder="John, Tony, or Scarlet Witch"                  
+                  required
+                />
+                <div class="invalid-feedback">
+                  Please provide us your name.
+                </div>
+              </div>
+              <div class="form-row">
+                <div class="form-group col-md-6">
+                  <label for="inputPhone">Phone</label>
+                  <input
+                    type="text"
+                    class="form-control"
+                    id="inputPhone"                    
+                    required
+                  />
+                  <div class="invalid-feedback">
+                    Please provide a valid phone number.
+                  </div>
+                </div>
+                <div class="form-group col-md-4">
+                  <label for="inputCity">City</label>
+                  <select
+                    id="inputCity"
+                    class="form-control"                    
+                    required
+                  >                  
+                    <option value="1">An Giang</option>
+                    <option value="2">Hà Nội</option>
+                    <option value="3">Đà Lạt</option>
+                    <option value="4">Vũng Tàu</option>
+                    <option value="5">Nha Trang</option>
+                    <option value="6">ĐắkNông</option>
+                    <option value="7">Bến Tre</option>
+                    <option value="8">Gia Lai</option>
+                    <option value="9">Hải Phòng</option>
+                    <option value="10">Tiền Giang</option>
+                    <option value="11">Hậu Giang</option>                 
+                  </select>
+                </div>
+                <div class="form-group col-md-2">
+                  <label for="inputZip">Zip</label>
+                  <input
+                    type="text"
+                    class="form-control"
+                    id="inputZip"
+                    class="form-control"
+                    required
+                  />
+                  <div class="invalid-feedback">
+                    Please provide correct Zip* code.
+                  </div>
+                </div>
+              </div>                            
+            </form>
+          </div>
+          <!-- Modal footer -->
+          <div class="modal-footer">
+            <button onclick="resetContent()" id="closeModal" class="btn btn-sm btn-secondary" data-dismiss="modal">
+              Close
+            </button>
+            <div id="feature"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="modal fade" id="myModalProduct">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <!-- Modal Header -->
+          <div class="modal-header">
+            <h4 class="modal-title product-title">Modal Heading</h4>
+            <button type="button" class="close" data-dismiss="modal">
+              &times;
+            </button>
+          </div>
+          <!-- Modal body -->
+          <div class="modal-body">
+            <form id="formAddProduct" class="add-validation" novalidate>
+              <div class="form-row">
+                <div class="form-group col-md-6">
+                  <label for="inputProductID">ProductID *</label>
+                  <input
+                    type="text"
+                    class="form-control"
+                    id="inputProductID"
+                    required
+                  />
+                  <div class="invalid-feedback">
+                    Please provide a valid key.
+                  </div>
+                </div>
+                <div class="form-group col-md-6">
+                  <label for="inputProductName">ProName *</label>
+                  <input
+                    type="text"
+                    class="form-control"
+                    id="inputProductName"
+                    required
+                  />
+                  <div class="invalid-feedback">
+                    Please provid a valid product name.
+                  </div>
+                </div>
+              </div>
+              
+              <div class="form-row">
+                <div class="form-group col-md-8">
+                  <label for="inputProductProcedure">Procedure</label>
+                  <input
+                    type="text"
+                    class="form-control"
+                    id="inputProductProcedure"                                    
+                    required
+                  />
+                  <div class="invalid-feedback">
+                    Please provide a correct procedure.
+                  </div>
+                </div>
+                <div class="form-group col-md-4">
+                  <label for="inputProductType">Type</label>
+                  <input type="text"  class="form-control" id="inputProductType" required>
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="inputProductDiscription">Discription</label>
+                <input
+                  type="text"
+                  class="form-control"
+                  id="inputProductDiscription"                                  
+                  required
+                />
+                <div class="invalid-feedback">
+                  Please write something
+                </div>
+              </div>
+              <div class="form-row">
+                <div class="form-group col-md-6">
+                  <label for="inputProductQuantity">Quantity</label>
+                  <input
+                    type="number"
+                    class="form-control"
+                    id="inputProductQuantity"                    
+                    required
+                  />
+                  <div class="invalid-feedback">
+                    Please provide a Quantity
+                  </div>
+                </div>
+                <div class="form-group col-md-4">
+                  <label for="inputProductPrice">Price</label>
+                  <input type="number"  class="form-control" id="inputProductPrice" required>
+                </div>
+                <div class="form-group col-md-2">
+                  <label for="inputProductStatus">Status</label>
+                  <input
+                    type="text"
+                    class="form-control"
+                    id="inputProductStatus"
+                    class="form-control"
+                    required
+                  />
+                  <div class="invalid-feedback">
+                    Please provide correct status.
+                  </div>
+                </div>
+              </div>                            
+            </form>
+          </div>
+          <!-- Modal footer -->
+          <div class="modal-footer">
+            <button onclick="resetContent()" id="closeModalProduct" class="btn btn-sm btn-secondary" data-dismiss="modal">
+              Close
+            </button>
+            <div id="featureProduct"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+    <script src="../../../node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="../../../node_modules/popper.js/dist/umd/popper.min.js"></script>
+    <script src="../../../node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="../../../node_modules/axios/dist/axios.min.js"></script>
+    <script src="../../../assets/js/admin/index.js"></script>
+    <script src="../../common/validation/Validation.js"></script>
+    <script src="../../common/validation/admin.js"></script>
+    <script src="../../models/User.js"></script>
+    <script src="../../models/Product.js"></script>
+    <script src="../../services/CityServices.js"></script>
+    <script src="../../services/ProductServices.js"></script>
+    <script src="../../services/UserServices.js"></script>
+    <script src="../../controllers/admin/admin.js"></script>    
+    <script src="../../controllers/admin/session.js"></script> 
+    <script src="../../controllers/logout.js"></script>   
+  </body>
+</html>

@@ -1,0 +1,253 @@
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\CosmeticStoreAPI.dll.config
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\CosmeticStoreAPI.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\CosmeticStoreAPI.pdb
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\csc.exe
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\csc.exe.config
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\csc.rsp
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\csi.exe
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\csi.exe.config
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\csi.rsp
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\Microsoft.Managed.Core.targets
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.AppContext.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Collections.Immutable.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Console.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.IO.Compression.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.IO.FileSystem.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.IO.Pipes.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Reflection.Metadata.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Security.AccessControl.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Security.Claims.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Security.Principal.Windows.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.ValueTuple.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Xml.XmlDocument.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Xml.XPath.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\vbc.exe
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\vbc.exe.config
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\vbc.rsp
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\VBCSCompiler.exe
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\VBCSCompiler.exe.config
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\Antlr3.Runtime.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\Microsoft.Web.Infrastructure.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\Newtonsoft.Json.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Net.Http.Formatting.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Cors.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Helpers.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Http.Cors.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Http.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Http.WebHost.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Mvc.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Optimization.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Razor.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.WebPages.Deployment.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.WebPages.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.WebPages.Razor.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\WebGrease.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Http.Cors.xml
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\Newtonsoft.Json.xml
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Net.Http.Formatting.xml
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Helpers.xml
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Http.xml
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Http.WebHost.xml
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Mvc.xml
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Optimization.xml
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Razor.xml
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.WebPages.xml
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.WebPages.Deployment.xml
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.WebPages.Razor.xml
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\Antlr3.Runtime.pdb
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\obj\Debug\CosmeticStoreAPI.csproj.CoreCompileInputs.cache
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\obj\Debug\CosmeticStoreAPI.csproj.CopyComplete
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\obj\Debug\CosmeticStoreAPI.dll
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\obj\Debug\CosmeticStoreAPI.pdb
+G:\FPTU\Major5\PRN292\Project\Source Code\API\CosmeticStoreAPI\CosmeticStoreAPI\obj\Debug\CosmeticStoreAPI.csprojAssemblyReference.cache
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\CosmeticStoreAPI.dll.config
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\CosmeticStoreAPI.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\CosmeticStoreAPI.pdb
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\csc.exe
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\csc.exe.config
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\csc.rsp
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\csi.exe
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\csi.exe.config
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\csi.rsp
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.AppContext.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Console.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\vbc.exe
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\vbc.exe.config
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\vbc.rsp
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\Antlr3.Runtime.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\Newtonsoft.Json.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Cors.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Helpers.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Http.Cors.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Http.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Mvc.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Optimization.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Razor.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.WebPages.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\WebGrease.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Http.Cors.xml
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\Newtonsoft.Json.xml
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Helpers.xml
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Http.xml
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Mvc.xml
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Optimization.xml
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Razor.xml
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.WebPages.xml
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\Antlr3.Runtime.pdb
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\obj\Debug\CosmeticStoreAPI.csprojAssemblyReference.cache
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\obj\Debug\CosmeticStoreAPI.csproj.CopyComplete
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\obj\Debug\CosmeticStoreAPI.dll
+C:\Users\minku\OneDrive\Desktop\API\CosmeticStoreAPI\CosmeticStoreAPI\obj\Debug\CosmeticStoreAPI.pdb
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\obj\Debug\CosmeticStoreAPI.csprojAssemblyReference.cache
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\obj\Debug\CosmeticStoreAPI.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\obj\Debug\CosmeticStoreAPI.pdb
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\CosmeticStoreAPI.dll.config
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\CosmeticStoreAPI.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\CosmeticStoreAPI.pdb
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\csc.exe
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\csc.exe.config
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\csc.rsp
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\csi.exe
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\csi.exe.config
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\csi.rsp
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.AppContext.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Console.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\vbc.exe
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\vbc.exe.config
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\vbc.rsp
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\Antlr3.Runtime.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\Newtonsoft.Json.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Cors.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Helpers.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Http.Cors.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Http.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Mvc.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Optimization.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Razor.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.WebPages.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\WebGrease.dll
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Http.Cors.xml
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\Newtonsoft.Json.xml
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Helpers.xml
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Http.xml
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Mvc.xml
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Optimization.xml
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.Razor.xml
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.WebPages.xml
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\Antlr3.Runtime.pdb
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\minku\OneDrive\Desktop\CosmeticOnlineShoppingApplicaiton_SE1319\source_code\CosmeticStoreAPI\CosmeticStoreAPI\obj\Debug\CosmeticStoreAPI.csproj.CopyComplete
